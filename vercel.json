@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "handle": "server.php", "src": "/(.*)", "methods": ["GET", "POST"] }
+  ]
+}
