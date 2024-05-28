@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="phpMyAdmin-5.2.1-all-languages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/phpMyAdmin-5.2.1-all-languages.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
